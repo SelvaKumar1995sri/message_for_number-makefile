@@ -4,7 +4,17 @@
 
 <h2 align="left">Step 1: Install MinGW Package Manager : </h2>
 
-<img src=" > 
+<img src="https://github.com/SelvaKumar1995sri/message_for_number-makefile/blob/master/output%20images/MinGW%20.png" > 
+
+<h2 align="left">Step 2: Install make Command : </h2>
+
+<img src="https://github.com/SelvaKumar1995sri/message_for_number-makefile/blob/master/output%20images/install_mingw_windows.png" > 
+
+<h2 align="left">Step 3: Rename mingw32-make.exe File : </h2>
+
+<img src="https://github.com/SelvaKumar1995sri/message_for_number-makefile/blob/master/output%20images/mingwr.png" > 
+<img src="https://github.com/SelvaKumar1995sri/message_for_number-makefile/blob/master/output%20images/change.png" > 
+
 
 <hr>
 
