@@ -5,7 +5,7 @@
 
 <h2 align="left">Afet running code we get : </h2>
 
-<img src="" > 
+<img src="https://github.com/SelvaKumar1995sri/message_for_number-makefile/blob/master/output%20images/output.png" > 
 
 <hr>
 <h2 align="left">Output  : </h2>
