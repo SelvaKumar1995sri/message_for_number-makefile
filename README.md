@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Give your lucky number get the funny message</h1>
+<h1>Give number get the message randomly</h1>
 
 <h2 align="left">Step 1: Install MinGW Package Manager : </h2>
 
